@@ -6,16 +6,6 @@
   
   🎮 Membro ativo da Liga de Jogos – IEEE UEFS Student Branch
 
----
-
-## 🧠 Sobre mim
-
-Sou atualmente graduando em Engenharia de Computação e extensionista na Universidade Estadual de Feira de Santana. Tenho interesse na área de desenvolvimento de jogos, matemática computacional e alguma experiência com linguagens de baixo nível. Atualmente, faço parte da Liga de Jogos da UEFS, onde participo de projetos voltados para desenvolvimento de jogos, explorando desde a lógica até o design e a implementação.
-
-Gosto de aprender coisas novas, projetar e construir aplicações interessantes. Tenho experiência com linguagens de baixo e alto nível, o que me permite transitar bem entre diferentes camadas da computação.
-
----
-
 ## 💻 Tecnologias e Linguagens
 
 <div align="center">
@@ -26,7 +16,12 @@ Gosto de aprender coisas novas, projetar e construir aplicações interessantes.
   <img src="https://img.shields.io/badge/Assembly-555555?style=for-the-badge" />
 </div>
 
----
+## 🧠 Sobre mim
+
+Sou atualmente graduando em Engenharia de Computação e extensionista na Universidade Estadual de Feira de Santana. Tenho interesse na área de desenvolvimento de jogos, matemática computacional e alguma experiência com linguagens de baixo nível. Atualmente, faço parte da Liga de Jogos da UEFS, onde participo de projetos voltados para desenvolvimento de jogos, explorando desde a lógica até o design e a implementação.
+
+Sou curioso e gosto de aprender coisas novas, projetar e construir aplicações interessantes. Tenho experiência com linguagens de baixo e alto nível, o que me permite transitar entre áreas diferentes da computação. Estou aberto ao aprendizado, seja ele qual for!
+
 
 ## 📊 GitHub Stats
 
@@ -37,12 +32,10 @@ Gosto de aprender coisas novas, projetar e construir aplicações interessantes.
 
 </div>
 
----
 
 ## 📫 Contato
 
 - 📧 Email: [rian.dssantos@gmail.com](mailto:rian.dssantos@gmail.com) 
 
----
 
 ✨ Obrigado por visitar meu perfil!
