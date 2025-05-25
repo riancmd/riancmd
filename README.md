@@ -37,5 +37,4 @@ Sou curioso e gosto de aprender coisas novas, projetar e construir aplicações 
 
 - 📧 Email: [rian.dssantos@gmail.com](mailto:rian.dssantos@gmail.com) 
 
-
-✨ Obrigado por visitar meu perfil!
+<h3 align="center">✨ Obrigado por visitar meu perfil!</h3>
