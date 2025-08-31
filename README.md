@@ -2,11 +2,11 @@
 
   🎓 Estudante de Engenharia de Computação – 5º semestre
   
-  💻 Entusiasta em desenvolvimento de sistemas e jogos
+  💻 Entusiasta no desenvolvimento de sistemas e jogos
   
   🎮 Diretor de Comunicação da Liga de Jogos – IEEE UEFS Student Branch
   
-  🧮 Pesquisador e amante de Matemática
+  🧮 Pesquisador e amante da Matemática
 
 ## 💻 Tecnologias e Linguagens
 
