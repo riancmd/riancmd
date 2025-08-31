@@ -1,10 +1,12 @@
 <h1 align="center">Olá! Eu sou o Rian 👋</h1>
 
-  🎓 Estudante de Engenharia de Computação – 4º semestre
+  🎓 Estudante de Engenharia de Computação – 5º semestre
   
   💻 Entusiasta em desenvolvimento de sistemas e jogos
   
-  🎮 Membro ativo da Liga de Jogos – IEEE UEFS Student Branch
+  🎮 Diretor de Comunicação da Liga de Jogos – IEEE UEFS Student Branch
+  
+  🧮 Pesquisador e amante de Matemática
 
 ## 💻 Tecnologias e Linguagens
 
@@ -18,7 +20,7 @@
 
 ## 🧠 Sobre mim
 
-Sou atualmente graduando em Engenharia de Computação e extensionista na Universidade Estadual de Feira de Santana. Tenho interesse na área de desenvolvimento de jogos, matemática computacional e alguma experiência com linguagens de baixo nível. Atualmente, faço parte da Liga de Jogos da UEFS, onde participo de projetos voltados para desenvolvimento de jogos, explorando desde a lógica até o design e a implementação.
+Sou graduando em Engenharia de Computação e bolsista de Iniciação Científica na Universidade Estadual de Feira de Santana. Tenho interesse na área de desenvolvimento de jogos, matemática computacional e alguma experiência com linguagens de baixo nível. Faço pesquisa na área de Códigos Corretores de Erro. Atualmente, também faço parte da Liga de Jogos da UEFS, onde participo como Diretor de Comunicação, atuando concomitantemente em projetos no desenvolvimento de jogos.
 
 Sou curioso e gosto de aprender coisas novas, projetar e construir aplicações interessantes. Tenho experiência com linguagens de baixo e alto nível, o que me permite transitar entre áreas diferentes da computação. Estou aberto ao aprendizado, seja ele qual for!
 
