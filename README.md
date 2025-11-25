@@ -14,8 +14,10 @@
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/GDScript-%2374267B.svg?style=for-the-badge&logo=godotengine&logoColor=white" />
   <img src="https://img.shields.io/badge/Verilog-ffcc00?style=for-the-badge&logo=verilog&logoColor=black" />
   <img src="https://img.shields.io/badge/Assembly-555555?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
 </div>
 
 ## 🧠 Sobre mim
