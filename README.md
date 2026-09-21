@@ -32,8 +32,8 @@ Sou curioso e gosto de aprender coisas novas, projetar e construir aplicações 
 
 <div align="center">
 
-![Rian's GitHub stats](https://github-readme-stats.vercel.app/api?username=riancmd&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riancmd&layout=compact&theme=tokyonight)
+![Stats](https://github-readme-stats.tuhidulhossain.com/api/stats?username=riancmd&theme=rose&show_icons=true)
+![Top Languages](https://github-readme-stats.tuhidulhossain.com/api/top-langs?username=riancmd&theme=rose)
 
 </div>
 
